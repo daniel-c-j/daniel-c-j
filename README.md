@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**daniel-c-j/daniel-c-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Daniel CJ here.
 
-Here are some ideas to get you started:
+I'm a digital technology ethusiast currently lurking in the web development. I also do mobile development with Flutter, scripting with Python either for automation or destroying operating systems. While my tech stacks seems all front-end focused, I also do back-ends... Sometimes :) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+There isn't a lot that stands out as interesting about me. I just like learning something new because I find it entertaining and addicting (Just like caffeine☕).
+
+### My Tech Stacks
+
+[![Skill Set 1](https://skillicons.dev/icons?i=flutter,next,prisma,express,react,tailwind,nodejs,git,firebase,supabase,githubactions
+)](https://skillicons.dev)
+
+[![Skill Set 2](https://skillicons.dev/icons?i=html,css,js,ts,py,dart,postgres,sqlite,md,bash,regex
+)](https://skillicons.dev)
+
+[![Skill Set 3](https://skillicons.dev/icons?i=vscode,androidstudio,atom,anaconda,figma,ps,materialui,github,linux,ubuntu,debian,
+)](https://skillicons.dev)
+
+
+### Contact
+
+My email: dcj.pavement400@passinbox.com
+
+Please don't spam. Bad bot.
